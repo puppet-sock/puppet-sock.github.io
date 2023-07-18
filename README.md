@@ -7,3 +7,4 @@
 * https://www.wikihow.com/Determine-Direction-Using-the-Sun
 * https://physics.weber.edu/schroeder/ua/SunAndSeasons.html
 * https://science.nasa.gov/science-news/science-at-nasa/1999/ast23sep99_1/
+* https://data.mashedworld.com/dualmaps/map.htm
