@@ -7,15 +7,14 @@
 * [ https://www.wikihow.com/Determine-Direction-Using-the-Sun ]()
 * [ https://physics.weber.edu/schroeder/ua/SunAndSeasons.html ]()
 * [ https://science.nasa.gov/science-news/science-at-nasa/1999/ast23sep99_1/ ]()
-* [ https://data.mashedworld.com/dualmaps/map.htm] ()
+* [ https://data.mashedworld.com/dualmaps/map.htm ]()
 
 ## == Images ==
 
 * [ https://imagemasker.github.io/ ]()
 ## == Github ==
-https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github
-
-https://github.com/skills/communicate-using-markdown
+* [ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github ]()
+* [ https://github.com/skills/communicate-using-markdown ]()
 ## == Misc ==
 * [ https://www.raebaker.net/ ]()
 * [ https://www.shipspotting.com ]()
