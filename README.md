@@ -18,19 +18,24 @@
 
 ## Images
 
-* [ https://imagemasker.github.io ]( https://imagemasker.github.io )
+* [ https://imagemasker.github.io ]
+    ( https://imagemasker.github.io )
   
 ## Github
 
-* [ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github ]()
-* [ https://github.com/skills/communicate-using-markdown ]()
+* [ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github ]
+   (https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
+* [ https://github.com/skills/communicate-using-markdown ]
+   (https://github.com/skills/communicate-using-markdown)
   
 <!-- ## == Misc == -->
 ## Misc 
 
-* [ https://www.raebaker.net/ ]()
-* [ https://www.shipspotting.com ]()
-* 
+* [ https://www.raebaker.net ]
+   (https://www.raebaker.net)
+* [ https://www.shipspotting.com ]
+   (https://www.shipspotting.com)
+ 
 ## Misc2
 
-* [http://asiteaboutnothing.net]()
+* [http://asiteaboutnothing.net](http://asiteaboutnothing.net)
