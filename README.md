@@ -18,9 +18,11 @@
 * [ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github ]()
 * [ https://github.com/skills/communicate-using-markdown ]()
 * 
-## == Misc ==
+<!-- ## == Misc == -->
+## Misc 
 
 * [ https://www.raebaker.net/ ]()
 * [ https://www.shipspotting.com ]()
-
 * 
+## == Misc2 ==
+* [http://asiteaboutnothing.net]()
