@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/puppet_sock_
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://puppet-sock.github.io
+  * I am puppet_sock_ (https://keybase.io/puppet_sock_) on keybase.
+  * I have a public key with fingerprint AF31 0830 574F A2F8 56EB  16A8 8374 F39D 7DEC B673
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010104ed19953a179fcf6b7791422b533deb3b8416fc1ad92ba68a4f4e3612e13bb90a",
+      "fingerprint": "af310830574fa2f856eb16a88374f39d7decb673",
+      "host": "keybase.io",
+      "key_id": "8374f39d7decb673",
+      "kid": "010104ed19953a179fcf6b7791422b533deb3b8416fc1ad92ba68a4f4e3612e13bb90a",
+      "uid": "44129b50c81cdffc8fed7e8bfae37719",
+      "username": "puppet_sock_"
+    },
+    "service": {
+      "hostname": "puppet-sock.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1692236972,
+  "expire_in": 157680000,
+  "prev": "8d740ec19ee54edf5f04fe1fc74108ebd1740949e057df4648f83d32a09b6720",
+  "seqno": 3,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMIvAnicrVJbSBRRGB4rbZMC8cHMfKjBCtK2OTOzc9m0QCKiN+kCldsyZ84567S2
+Mzs7u2ZaDxmpmAVmpd18SLBckRB6KbQLXbz00oXoCpV0UcsHi6wg7IzVQ9Bj5zwc
+zv9/33f+//vPzXkzmfQUNDF25lv3uf6UoevtcQa9qO6qYqGJKll/FRvG0wcuRzjm
+BMMGYv0sB+gWMQKq6hM0IKtEJxKUZRWIPA99goAwFKAiAonoQEMqDzVJ0UQiYkEC
+PAYChCqnsQUsMSIhbFu2EXGorEYEwCkC55NFovFE8UkYAklTFIEGBBXJCOtQkgVK
+LDNjLoMWB7UY9homjdFLcLq8f+D/c93xaTlRBLwKfZyuAB0RoisEIxkrkGhYkGWg
+usAYtiPaLkzRVtyysBOMmXo4yO4tYGkmYejYNdft5i/UChflDRlOWRz+as6yTcfU
+zXIKKXMcK+Z3JZxKy+VUYBj8rRaERgRRUykjge2YYUZYP6BI3TFceSCpPC9IqswX
+sHi3Zdg4aLgInywpHF3uOzjhWohkkcM6UDH2UcOIj3AiwYDoskhHhCECNK+KKqbD
+QkSURIUoAhJ4jVOp4zzHuv1FIybrF2iZWohKxoxQRHPiNmb33rhWOotJSWfSUme4
+n41Jn5Px5wtunvQwB6qb6z31JaVRZrg5623fPt3T9vHinYBVofZ95n4cGPRG5eO3
+Bn/0XjB3hlfPDxw++Xyqq2RJ06PGjrurpzoCo2kDydvVb8a0uVmrmEU5k8PlbQ3j
+97Kt5OIticnxNSd69zBPmlJqDjV0bDva4am/1J+LZiQGe6YCoZZnm7OcrQfXv2v9
+9OLI/S/JDXV5OWe/r3vTgkYXXN2e+XCHXcg/WFpXpTz+GvXjpqHM4Mv20+zTWrYn
+umzhleXeD6c9X4qLRuURO5BfHK5JXfn68vm88aZ3ZxtnTthrOye83k2za7MzWtv2
+641ppwZyu/PDo4VJSxvJft+ZU5Uw6ja+QseKan4Cc9BNoQ==
+=NWRY
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/puppet_sock_
+
+==================================================================
