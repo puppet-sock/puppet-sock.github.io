@@ -1,0 +1,3 @@
+Host: puppet-sock.pw
+User-agent: *
+Disallow: /
