@@ -1,0 +1,9 @@
+#This is a comment
+#https://en.wikipedia.org/wiki/Security.txt
+#https://securitytxt.org/
+#https://github.com/securitytxt/security-txt
+Contact: contact@puppet-sock.pw
+#Contact: +1..
+#Contact: https://puppet-sock.pw/security
+#Encryption: https://puppet-sock.pw/pgp-key.txt
+Disclosure: Full
