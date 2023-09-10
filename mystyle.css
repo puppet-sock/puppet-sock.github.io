@@ -4,7 +4,7 @@ margin: 3px;
 padding: 3px;
 }
 
-a{
+a:link{
   text-decoration: none;
 }
 
