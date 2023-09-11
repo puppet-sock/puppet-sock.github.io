@@ -1,9 +1,28 @@
-#This is a comment
-#https://en.wikipedia.org/wiki/Security.txt
-#https://securitytxt.org/
-#https://github.com/securitytxt/security-txt
-Contact: contact@puppet-sock.pw
-#Contact: +1..
-#Contact: https://puppet-sock.pw/security
-#Encryption: https://puppet-sock.pw/pgp-key.txt
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+
+
+Contact: mailto:ps@mf.me
+Expires: 2025-12-11T17:53:00.000Z
+Encryption: https://puppet-sock.pw/key.asc
+Preferred-Languages: en
+Canonical: https://puppet-sock.pw/security.txt
 Disclosure: Full
+Signed by: Puppet Sock(ps@mf.me)
+
+
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEESql/qUKq01uDelkGFHkVuzW4qz8FAmT/SKkACgkQFHkVuzW4
+qz9n3gv/e1s/NiES6xlUzfalHF7AyzUEiBswa54UQobrwgID8oLVH6zk3IvAWa/b
+5cgc2azhqlpGLcesagcgLVc0ERXcNw+jIbpOfvZWxT2qXwE9au5T9MCukeH+NEYD
+7QU8VZZNZesHL/L7p+Lj+yAEUgCd/6zX9nbFMi0CBG9nCilGyufUqx/ivAefOejM
+3i/gS7WT+DmU9js7958YnBhYDtZXwpTP5KQmWQR52RO6PS30UaaWgJYWZmqXKzAw
+NLdNOb7le0Z8UYI/a+Lpjd+pf4ZGj1W7FmN5SSEotD81asafZm5vPfspN366YSQu
+DLv12esWsPASskJevIWkNmiyGltZWWojPeqHvfC0YUob3HmidM5GNOfJVm8nGmE5
+JWedJYW+Sy6W7leE+KoIFktRjmSCqkxNeinApf9BxikuqGHvCE19RjqBO++Pmpib
+f7ENK3a28UgXxpb8rPHme5DbkmacRD7uTfUIIsx4oKJg1ZH0pCJkEdFwSVzTYBbt
+2JEAR4co
+=cvMI
+-----END PGP SIGNATURE-----
