@@ -1,6 +1,8 @@
+==Resorces==
+https://tatoeba.org/en/stats/sentences_by_language
+==Games==
 https://www.britannica.com/quiz/guess-the-language
 https://www.languagesquad.com/
 https://www.languiz.com/
 https://www.langguessr.com/
-https://languageguesser.com/
 
